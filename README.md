@@ -18,17 +18,6 @@ An AI-driven screening system that:
 - Product Management (Roadmap, MVP, Backlog, Sprints)
 - AI System Design (Matching logic, scoring, bias mitigation)
 
-## Structure
-See folders for full documentation:
-- 00_Project_Overview → Business foundation
-- 01_Business_Analysis → Processes & stakeholders
-- 02_Requirements → BRD, SRS, user stories
-- 03_Product_Management → Agile planning & roadmap
-- 04_AI_System_Design → AI logic & architecture
-- 05_UI_UX_Concept → Dashboard design
-- 06_Testing_&_Validation → UAT cases
-- 07_Risk_and_Quality → Risk & ethics
-
 ## Key Outcome
 A structured, AI-assisted recruitment system that improves:
 - Hiring speed
